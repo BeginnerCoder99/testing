@@ -4,7 +4,7 @@ Not much to see here, simply getting used to github style
 
 ## Testing Header 2
 Some more beginner project nonsense with a simple python code for starters.
-<code>print("Just another test")</code>
+`<code>print("Just another test")</code>`
 
 ### Testing Header 3
 The final test of course, is an image of a good boy.
