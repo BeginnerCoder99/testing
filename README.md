@@ -1,4 +1,4 @@
-#Testing Header 1
+# Testing Header 1
 Just the average beginner project as expected of a beginner coder
 Not much to see here, simply getting used to github style
 
